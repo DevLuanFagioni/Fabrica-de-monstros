@@ -1,0 +1,59 @@
+#depoiments{
+  width: 100%;
+  padding: 50px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.depoiment-title{
+  width: 60%;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.depoiment-title h1{
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
+.depoiments-cards{
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.depoiments-card{
+  width: 25%;
+  height: 300px;
+  border-bottom: 3px solid var(--red);
+  position: relative;
+}
+
+.depoiments-profile{
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.depoiments-profile img{
+  margin-right: 20px;
+}
+
+.depoiments-profile h1{
+  font-size: 1.3rem;
+  text-transform: uppercase;
+}
+
+.depoiments-profile span{
+  text-transform: uppercase;
+  color: var(--red);
+  font-size: 0.8rem;
+}
+
+.depoiments-card-icon{
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}

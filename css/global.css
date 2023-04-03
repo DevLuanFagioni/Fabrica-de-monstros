@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body{
+  background-color: var(--black);
+}
+
+h1,p {
+  color: var(--white);
+}
+
+main{
+  width: 80%;
+  margin: 0 auto;
+}

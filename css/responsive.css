@@ -1,0 +1,62 @@
+@media (max-width: 700px){
+  .home-images{
+    display: none;
+  }
+
+  .group-home-content{
+    text-align: center;
+    width: 300px;
+  }
+
+  .group-logo{
+    justify-content: center;
+    width: 300px;
+  }
+
+  .group-home-content p{
+    width: 100%;
+  }
+
+  .method-card{
+    min-width: 300px;
+    margin-bottom: 40px;
+  }
+
+  .depoiments-card{
+    min-width: 300px;
+    margin-bottom: 40px;
+  }
+
+  .depoiment-title h1{
+    font-size: 1.5rem;
+    text-transform: uppercase;
+  }
+
+  .about-content{
+    min-width: 300px;
+    text-align: center;
+  }
+
+  .about-content p{
+    width: 100%;
+  }
+
+  .about-image {
+    min-width: 300px;
+    text-align: center;
+  }
+
+  .about-image img{
+    width: 280px;
+    height: 280px;
+  }
+
+  .investment-content{
+    min-width: 300px;
+    margin-bottom: 60px;
+  }
+
+  .investiment-stamp{
+    min-width: 300px;
+  }
+}
