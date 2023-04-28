@@ -24,7 +24,7 @@ Landing page com tema de academia.
 
 ### 📲 Mobile
 
-<div>
+<div align="center" >
   <img src="https://user-images.githubusercontent.com/101909254/234618826-3442ad87-b3de-4414-90e6-270596ef2d68.jpg" alt="" width="250px">
   <img src="https://user-images.githubusercontent.com/101909254/234618830-9adae7b5-0c2f-4841-a9bb-1dd467325e93.jpg" alt="" width="250px">
   <img src="https://user-images.githubusercontent.com/101909254/234618833-eb9230c4-ee91-4c24-8a9c-c9d2ed1a2925.jpg" alt="" width="250px">
