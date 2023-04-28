@@ -25,18 +25,16 @@ Landing page com tema de academia.
   <img src="https://user-images.githubusercontent.com/101909254/234618790-e11ce82c-a208-4cc5-b7d5-ea41e594f389.jpg" alt="" width="33%">
 </div>
 
-<div>
-  <img src="https://user-images.githubusercontent.com/101909254/234618826-3442ad87-b3de-4414-90e6-270596ef2d68.jpg" alt="" width="25%">
-  <img src="https://user-images.githubusercontent.com/101909254/234618830-9adae7b5-0c2f-4841-a9bb-1dd467325e93.jpg" alt="" width="25%">
-  <img src="https://user-images.githubusercontent.com/101909254/234618833-eb9230c4-ee91-4c24-8a9c-c9d2ed1a2925.jpg" alt="" width="25%">
-  <img src="https://user-images.githubusercontent.com/101909254/234618838-66fdd25f-42f8-4080-81af-0a0956169445.jpg" alt="" width="25%">
-</div>
+### Mobile
 
 <div>
-  <img src="https://user-images.githubusercontent.com/101909254/234618840-1bdda092-49db-4130-b1da-b67cc16f3a25.jpg" alt="" width="25%">
-  <img src="https://user-images.githubusercontent.com/101909254/234618843-7fbf0e50-a7e4-47b3-82d4-f577752521c7.jpg" alt="" width="25%">
+  <img src="https://user-images.githubusercontent.com/101909254/234618826-3442ad87-b3de-4414-90e6-270596ef2d68.jpg" alt="" width="200px">
+  <img src="https://user-images.githubusercontent.com/101909254/234618830-9adae7b5-0c2f-4841-a9bb-1dd467325e93.jpg" alt="" width="200px">
+  <img src="https://user-images.githubusercontent.com/101909254/234618833-eb9230c4-ee91-4c24-8a9c-c9d2ed1a2925.jpg" alt="" width="200px">
+  <img src="https://user-images.githubusercontent.com/101909254/234618838-66fdd25f-42f8-4080-81af-0a0956169445.jpg" alt="" width="200px">
+   <img src="https://user-images.githubusercontent.com/101909254/234618840-1bdda092-49db-4130-b1da-b67cc16f3a25.jpg" alt="" width="200px">
+  <img src="https://user-images.githubusercontent.com/101909254/234618843-7fbf0e50-a7e4-47b3-82d4-f577752521c7.jpg" alt="" width="200px">
 </div>
-
 
 ## 📄 Licença
 
