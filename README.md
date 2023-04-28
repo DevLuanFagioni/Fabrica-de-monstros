@@ -14,15 +14,12 @@ Landing page com tema de academia.
 ## 📸 Imagens do projeto
 
 <div>
-  <img src="https://user-images.githubusercontent.com/101909254/234618763-e5e85c11-0a6f-46da-9a8c-87df9c2f46b2.jpg" alt="" width="33%">
-  <img src="https://user-images.githubusercontent.com/101909254/234618774-322d743b-8e26-4848-b1da-029a584f6c0a.jpg" alt="" width="33%">
-  <img src="https://user-images.githubusercontent.com/101909254/234618778-6d6084d5-6dfc-42d2-8350-9b70fb5d5bc5.jpg" alt="" width="33%">
-</div>
-
-<div>
-  <img src="https://user-images.githubusercontent.com/101909254/234618783-9bf72506-e0d7-430e-8b00-402048893cb4.jpg" alt="" width="33%">
-  <img src="https://user-images.githubusercontent.com/101909254/234618786-665aa28a-34c6-442a-be76-dab27bdb2452.jpg" alt="" width="33%">
-  <img src="https://user-images.githubusercontent.com/101909254/234618790-e11ce82c-a208-4cc5-b7d5-ea41e594f389.jpg" alt="" width="33%">
+  <img src="https://user-images.githubusercontent.com/101909254/234618763-e5e85c11-0a6f-46da-9a8c-87df9c2f46b2.jpg" alt="">
+  <img src="https://user-images.githubusercontent.com/101909254/234618774-322d743b-8e26-4848-b1da-029a584f6c0a.jpg" alt="">
+  <img src="https://user-images.githubusercontent.com/101909254/234618778-6d6084d5-6dfc-42d2-8350-9b70fb5d5bc5.jpg" alt="">
+  <img src="https://user-images.githubusercontent.com/101909254/234618783-9bf72506-e0d7-430e-8b00-402048893cb4.jpg" alt="">
+  <img src="https://user-images.githubusercontent.com/101909254/234618786-665aa28a-34c6-442a-be76-dab27bdb2452.jpg" alt="">
+  <img src="https://user-images.githubusercontent.com/101909254/234618790-e11ce82c-a208-4cc5-b7d5-ea41e594f389.jpg" alt="">
 </div>
 
 ### Mobile
