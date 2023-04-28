@@ -13,6 +13,8 @@ Landing page com tema de academia.
 
 ## 📸 Imagens do projeto
 
+### 💻 web
+
 <div>
   <img src="https://user-images.githubusercontent.com/101909254/234618763-e5e85c11-0a6f-46da-9a8c-87df9c2f46b2.jpg" alt="">
   <img src="https://user-images.githubusercontent.com/101909254/234618774-322d743b-8e26-4848-b1da-029a584f6c0a.jpg" alt="">
