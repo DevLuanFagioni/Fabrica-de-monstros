@@ -2,10 +2,14 @@
 
 Landing page com tema de academia.
 
+## 🌐 Deploy
+
+https://fagioni-fabrica-de-monstros.netlify.app
+
 ## 🛠️ Construído com
 
-* - HTML5
-* - CSS3
+* HTML5
+* CSS3
 
 ## ✒️ Autor
 
